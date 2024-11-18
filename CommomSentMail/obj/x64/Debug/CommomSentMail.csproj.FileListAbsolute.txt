@@ -1,0 +1,6 @@
+D:\DoAnTotNghiep\TNCC\websitebansach\CommomSentMail\bin\x64\Debug\CommomSentMail.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\CommomSentMail\bin\x64\Debug\CommomSentMail.pdb
+D:\DoAnTotNghiep\TNCC\websitebansach\CommomSentMail\obj\x64\Debug\CommomSentMail.csproj.AssemblyReference.cache
+D:\DoAnTotNghiep\TNCC\websitebansach\CommomSentMail\obj\x64\Debug\CommomSentMail.csproj.CoreCompileInputs.cache
+D:\DoAnTotNghiep\TNCC\websitebansach\CommomSentMail\obj\x64\Debug\CommomSentMail.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\CommomSentMail\obj\x64\Debug\CommomSentMail.pdb

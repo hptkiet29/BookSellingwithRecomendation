@@ -1,0 +1,578 @@
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\obj\Debug\dtbso.csproj.AssemblyReference.cache
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\obj\Debug\dtbso.csproj.CoreCompileInputs.cache
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\obj\Debug\BaiTapLon.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\obj\Debug\BaiTapLon.pdb
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\ApplicationInsights.config
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\roslyn\csc.exe
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\roslyn\vbc.exe
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\roslyn\VBCSCompiler.exe
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\BaiTapLon.dll.config
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\BaiTapLon.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\BaiTapLon.pdb
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Antlr3.Runtime.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\BotDetect.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\BotDetect.Web.Mvc.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\CKFinder.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\ClosedXML.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\CommomSentMail.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\DocumentFormat.OpenXml.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\EntityFramework.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\EntityFramework.SqlServer.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\ExcelNumberFormat.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Facebook.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.AI.Web.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.ApplicationInsights.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.Owin.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.Owin.Security.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Mood.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Newtonsoft.Json.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Owin.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\System.Data.SQLite.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\System.Web.Helpers.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\System.Web.Mvc.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\System.Web.Optimization.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\System.Web.Razor.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\System.Web.WebPages.Deployment.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\System.Web.WebPages.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\System.Web.WebPages.Razor.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\WebGrease.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\X.PagedList.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\X.PagedList.Mvc.dll
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\CommomSentMail.pdb
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Mood.pdb
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Mood.dll.config
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\CKFinder.pdb
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\ClosedXML.pdb
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\ClosedXML.xml
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\DocumentFormat.OpenXml.xml
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\ExcelNumberFormat.xml
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Facebook.xml
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.AI.Web.xml
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.ApplicationInsights.xml
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.Owin.xml
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.Owin.Security.xml
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Newtonsoft.Json.xml
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\System.Data.SQLite.xml
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\System.Data.SQLite.dll.config
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\System.Web.Helpers.xml
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\System.Web.Mvc.xml
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\System.Web.Optimization.xml
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\System.Web.Razor.xml
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\System.Web.WebPages.xml
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\System.Web.WebPages.Deployment.xml
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\System.Web.WebPages.Razor.xml
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Antlr3.Runtime.pdb
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\EntityFramework.xml
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\EntityFramework.SqlServer.xml
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\white\OneDrive\Documents\Do_An_momo\Do_An\btl\obj\Debug\dtbso.csproj.CopyComplete
+D:\GitHub\cSharp-Ecommerce\btl\bin\ApplicationInsights.config
+D:\GitHub\cSharp-Ecommerce\btl\bin\roslyn\csc.exe
+D:\GitHub\cSharp-Ecommerce\btl\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GitHub\cSharp-Ecommerce\btl\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GitHub\cSharp-Ecommerce\btl\bin\roslyn\System.Collections.Immutable.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\roslyn\System.Reflection.Metadata.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\roslyn\vbc.exe
+D:\GitHub\cSharp-Ecommerce\btl\bin\roslyn\VBCSCompiler.exe
+D:\GitHub\cSharp-Ecommerce\btl\bin\roslyn\VBCSCompiler.exe.config
+D:\GitHub\cSharp-Ecommerce\btl\bin\BaiTapLon.dll.config
+D:\GitHub\cSharp-Ecommerce\btl\bin\BaiTapLon.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\BaiTapLon.pdb
+D:\GitHub\cSharp-Ecommerce\btl\bin\Antlr3.Runtime.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\BotDetect.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\BotDetect.Web.Mvc.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\CKFinder.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\ClosedXML.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\CommomSentMail.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\DocumentFormat.OpenXml.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\EntityFramework.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\EntityFramework.SqlServer.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\ExcelNumberFormat.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\Facebook.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.AI.Agent.Intercept.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.AI.DependencyCollector.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.AI.Web.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.AI.WindowsServer.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.ApplicationInsights.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.AspNet.Identity.Core.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.Owin.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.Owin.Security.Cookies.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.Owin.Security.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.Owin.Security.Facebook.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.Owin.Security.Google.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.Owin.Security.OAuth.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.Owin.Security.Twitter.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.Web.Infrastructure.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\Mood.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\Newtonsoft.Json.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\Owin.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\System.Data.SQLite.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\System.Web.Helpers.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\System.Web.Mvc.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\System.Web.Optimization.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\System.Web.Razor.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\System.Web.WebPages.Deployment.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\System.Web.WebPages.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\System.Web.WebPages.Razor.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\WebGrease.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\X.PagedList.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\X.PagedList.Mvc.dll
+D:\GitHub\cSharp-Ecommerce\btl\bin\CommomSentMail.pdb
+D:\GitHub\cSharp-Ecommerce\btl\bin\Mood.pdb
+D:\GitHub\cSharp-Ecommerce\btl\bin\Mood.dll.config
+D:\GitHub\cSharp-Ecommerce\btl\bin\CKFinder.pdb
+D:\GitHub\cSharp-Ecommerce\btl\bin\ClosedXML.pdb
+D:\GitHub\cSharp-Ecommerce\btl\bin\ClosedXML.xml
+D:\GitHub\cSharp-Ecommerce\btl\bin\DocumentFormat.OpenXml.xml
+D:\GitHub\cSharp-Ecommerce\btl\bin\ExcelNumberFormat.xml
+D:\GitHub\cSharp-Ecommerce\btl\bin\Facebook.xml
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.AI.DependencyCollector.xml
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.AI.Web.xml
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.AI.WindowsServer.xml
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.ApplicationInsights.xml
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.Owin.xml
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.Owin.Security.xml
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.Owin.Security.Facebook.xml
+D:\GitHub\cSharp-Ecommerce\btl\bin\Newtonsoft.Json.xml
+D:\GitHub\cSharp-Ecommerce\btl\bin\System.Data.SQLite.xml
+D:\GitHub\cSharp-Ecommerce\btl\bin\System.Data.SQLite.dll.config
+D:\GitHub\cSharp-Ecommerce\btl\bin\System.Web.Helpers.xml
+D:\GitHub\cSharp-Ecommerce\btl\bin\System.Web.Mvc.xml
+D:\GitHub\cSharp-Ecommerce\btl\bin\System.Web.Optimization.xml
+D:\GitHub\cSharp-Ecommerce\btl\bin\System.Web.Razor.xml
+D:\GitHub\cSharp-Ecommerce\btl\bin\System.Web.WebPages.xml
+D:\GitHub\cSharp-Ecommerce\btl\bin\System.Web.WebPages.Deployment.xml
+D:\GitHub\cSharp-Ecommerce\btl\bin\System.Web.WebPages.Razor.xml
+D:\GitHub\cSharp-Ecommerce\btl\bin\Antlr3.Runtime.pdb
+D:\GitHub\cSharp-Ecommerce\btl\bin\EntityFramework.xml
+D:\GitHub\cSharp-Ecommerce\btl\bin\EntityFramework.SqlServer.xml
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.AspNet.Identity.Core.xml
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.Owin.Security.Cookies.xml
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.Owin.Security.OAuth.xml
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.Owin.Security.Google.xml
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.Owin.Security.Twitter.xml
+D:\GitHub\cSharp-Ecommerce\btl\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\GitHub\cSharp-Ecommerce\btl\obj\Debug\dtbso.csproj.AssemblyReference.cache
+D:\GitHub\cSharp-Ecommerce\btl\obj\Debug\dtbso.csproj.CoreCompileInputs.cache
+D:\GitHub\cSharp-Ecommerce\btl\obj\Debug\dtbso.csproj.CopyComplete
+D:\GitHub\cSharp-Ecommerce\btl\obj\Debug\BaiTapLon.dll
+D:\GitHub\cSharp-Ecommerce\btl\obj\Debug\BaiTapLon.pdb
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\ApplicationInsights.config
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\roslyn\csc.exe
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\roslyn\System.Collections.Immutable.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\roslyn\System.Reflection.Metadata.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\roslyn\vbc.exe
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\roslyn\VBCSCompiler.exe
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\roslyn\VBCSCompiler.exe.config
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\BaiTapLon.dll.config
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\BaiTapLon.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\BaiTapLon.pdb
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Antlr3.Runtime.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\BotDetect.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\BotDetect.Web.Mvc.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\CKFinder.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\ClosedXML.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\CommomSentMail.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\DocumentFormat.OpenXml.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\EntityFramework.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\EntityFramework.SqlServer.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\ExcelNumberFormat.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Facebook.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.AI.DependencyCollector.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.AI.Web.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.AI.WindowsServer.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.ApplicationInsights.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.Owin.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.Owin.Security.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.Owin.Security.Google.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.Web.Infrastructure.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Mood.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Newtonsoft.Json.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Owin.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\System.Data.SQLite.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\System.Web.Helpers.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\System.Web.Mvc.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\System.Web.Optimization.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\System.Web.Razor.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\System.Web.WebPages.Deployment.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\System.Web.WebPages.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\System.Web.WebPages.Razor.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\WebGrease.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\X.PagedList.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\X.PagedList.Mvc.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\CommomSentMail.pdb
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Mood.pdb
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Mood.dll.config
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\CKFinder.pdb
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\ClosedXML.pdb
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\ClosedXML.xml
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\DocumentFormat.OpenXml.xml
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\ExcelNumberFormat.xml
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Facebook.xml
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.AI.DependencyCollector.xml
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.AI.Web.xml
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.AI.WindowsServer.xml
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.ApplicationInsights.xml
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.Owin.xml
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.Owin.Security.xml
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Newtonsoft.Json.xml
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\System.Data.SQLite.xml
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\System.Data.SQLite.dll.config
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\System.Web.Helpers.xml
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\System.Web.Mvc.xml
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\System.Web.Optimization.xml
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\System.Web.Razor.xml
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\System.Web.WebPages.xml
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\System.Web.WebPages.Deployment.xml
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\System.Web.WebPages.Razor.xml
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Antlr3.Runtime.pdb
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\EntityFramework.xml
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\EntityFramework.SqlServer.xml
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.Owin.Security.Google.xml
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\obj\Debug\dtbso.csproj.AssemblyReference.cache
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\obj\Debug\dtbso.csproj.CoreCompileInputs.cache
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\obj\Debug\dtbso.csproj.CopyComplete
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\obj\Debug\BaiTapLon.dll
+E:\Tiền tỷ\Đồ án\Đồ án đã xong_2022_đợt 2\Đồ án Thế Tấn_Hust_Đã xong\Trương Hải_it15\btl\obj\Debug\BaiTapLon.pdb
+C:\Users\Admin\Desktop\websitebansach\btl\bin\ApplicationInsights.config
+C:\Users\Admin\Desktop\websitebansach\btl\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\websitebansach\btl\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\websitebansach\btl\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\websitebansach\btl\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\websitebansach\btl\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\websitebansach\btl\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\websitebansach\btl\bin\BaiTapLon.dll.config
+C:\Users\Admin\Desktop\websitebansach\btl\bin\BaiTapLon.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\BaiTapLon.pdb
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\BotDetect.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\BotDetect.Web.Mvc.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\CKFinder.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\ClosedXML.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\CommomSentMail.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\DocumentFormat.OpenXml.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\ExcelNumberFormat.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Facebook.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.Owin.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Mood.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Owin.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\System.Data.SQLite.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\WebGrease.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\X.PagedList.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\X.PagedList.Mvc.dll
+C:\Users\Admin\Desktop\websitebansach\btl\bin\CommomSentMail.pdb
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Mood.pdb
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Mood.dll.config
+C:\Users\Admin\Desktop\websitebansach\btl\bin\CKFinder.pdb
+C:\Users\Admin\Desktop\websitebansach\btl\bin\ClosedXML.pdb
+C:\Users\Admin\Desktop\websitebansach\btl\bin\ClosedXML.xml
+C:\Users\Admin\Desktop\websitebansach\btl\bin\DocumentFormat.OpenXml.xml
+C:\Users\Admin\Desktop\websitebansach\btl\bin\ExcelNumberFormat.xml
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Facebook.xml
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.Owin.xml
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\websitebansach\btl\bin\System.Data.SQLite.xml
+C:\Users\Admin\Desktop\websitebansach\btl\bin\System.Data.SQLite.dll.config
+C:\Users\Admin\Desktop\websitebansach\btl\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\websitebansach\btl\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\websitebansach\btl\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\websitebansach\btl\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\websitebansach\btl\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\websitebansach\btl\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\websitebansach\btl\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\websitebansach\btl\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\websitebansach\btl\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Admin\Desktop\websitebansach\btl\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Admin\Desktop\websitebansach\btl\obj\Debug\dtbso.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\websitebansach\btl\obj\Debug\dtbso.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\websitebansach\btl\obj\Debug\dtbso.csproj.CopyComplete
+C:\Users\Admin\Desktop\websitebansach\btl\obj\Debug\BaiTapLon.dll
+C:\Users\Admin\Desktop\websitebansach\btl\obj\Debug\BaiTapLon.pdb
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\ApplicationInsights.config
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\roslyn\csc.exe
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\roslyn\System.Collections.Immutable.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\roslyn\System.Reflection.Metadata.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\roslyn\vbc.exe
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\roslyn\VBCSCompiler.exe
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\roslyn\VBCSCompiler.exe.config
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\BaiTapLon.dll.config
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\BaiTapLon.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\BaiTapLon.pdb
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Antlr3.Runtime.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\BotDetect.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\BotDetect.Web.Mvc.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\CKFinder.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\ClosedXML.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\CommomSentMail.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\DocumentFormat.OpenXml.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\EntityFramework.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\EntityFramework.SqlServer.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\ExcelNumberFormat.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Facebook.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.AI.DependencyCollector.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.AI.Web.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.AI.WindowsServer.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.ApplicationInsights.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.Owin.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.Owin.Security.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.Owin.Security.Google.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.Web.Infrastructure.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Mood.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Newtonsoft.Json.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Owin.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\System.Data.SQLite.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\System.Web.Helpers.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\System.Web.Mvc.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\System.Web.Optimization.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\System.Web.Razor.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\System.Web.WebPages.Deployment.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\System.Web.WebPages.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\System.Web.WebPages.Razor.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\WebGrease.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\X.PagedList.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\X.PagedList.Mvc.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\CommomSentMail.pdb
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Mood.pdb
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Mood.dll.config
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\CKFinder.pdb
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\ClosedXML.pdb
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\ClosedXML.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\DocumentFormat.OpenXml.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\ExcelNumberFormat.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Facebook.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.AI.DependencyCollector.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.AI.Web.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.AI.WindowsServer.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.ApplicationInsights.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.Owin.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.Owin.Security.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Newtonsoft.Json.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\System.Data.SQLite.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\System.Data.SQLite.dll.config
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\System.Web.Helpers.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\System.Web.Mvc.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\System.Web.Optimization.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\System.Web.Razor.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\System.Web.WebPages.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\System.Web.WebPages.Deployment.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\System.Web.WebPages.Razor.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Antlr3.Runtime.pdb
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\EntityFramework.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\EntityFramework.SqlServer.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.Owin.Security.Google.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\obj\Debug\dtbso.csproj.AssemblyReference.cache
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\obj\Debug\dtbso.csproj.CoreCompileInputs.cache
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\obj\Debug\dtbso.csproj.CopyComplete
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\obj\Debug\BaiTapLon.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\obj\Debug\BaiTapLon.pdb
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.ML.Data.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.ML.DataView.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.ML.Core.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.ML.Transforms.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\System.Memory.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\System.Collections.Immutable.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\System.Threading.Channels.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\System.Threading.Tasks.Extensions.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.ML.CpuMath.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\System.Numerics.Vectors.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\System.Buffers.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\System.Numerics.Tensors.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.Bcl.Numerics.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.ML.Data.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.ML.DataView.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.ML.Core.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.ML.Transforms.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\System.Memory.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\System.Collections.Immutable.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\System.Threading.Channels.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\System.Threading.Tasks.Extensions.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.ML.CpuMath.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\System.Numerics.Vectors.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\System.Buffers.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\System.Numerics.Tensors.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.Bcl.Numerics.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\FastTreeNative.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\LdaNative.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\CpuMathNative.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.ML.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.ML.FastTree.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.ML.KMeansClustering.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.ML.PCA.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.ML.StandardTrainers.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\System.CodeDom.dll
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.ML.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.ML.FastTree.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.ML.KMeansClustering.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.ML.PCA.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Microsoft.ML.StandardTrainers.xml
+D:\DoAnTotNghiep\TNCC\websitebansach\btl\bin\Recomendation.zip
